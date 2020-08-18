@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Tom Adams</title>
+    <link>https://tomadams333.github.io/tom_portfolio/post/</link>
+    <description>Recent content in Projects on Tom Adams</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 05 Jun 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://tomadams333.github.io/tom_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 4: Waggytailsflyball website build</title>
+      <link>https://tomadams333.github.io/tom_portfolio/post/project-4/</link>
+      <pubDate>Fri, 05 Jun 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://tomadams333.github.io/tom_portfolio/post/project-4/</guid>
+      <description>Link: Waggytailsflyball link
+info: This is a website created in Wordpress using custom themes mixed with CSS and HTML overwrites to create a finished product.
+This website includes the following:
+ Galleries Links to social media, Youtube and Wikipedia Inbedded youtube videos Scroll up buttons Search bars and info headers and footers with links Blog features Functional events calendar Google maps inbedded with pin to training grounds and link to Google maps directly functional e-mails and contact form to send requests to website owners.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Visualising earnings for college majors</title>
+      <link>https://tomadams333.github.io/tom_portfolio/post/project-3/</link>
+      <pubDate>Fri, 05 Jun 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://tomadams333.github.io/tom_portfolio/post/project-3/</guid>
+      <description>In this project we are going to be using the Pandas and Matplotlib libraries to generate varying graphs for data relating to job outcomes of students who graduated from college between 2010 and 2012 in America. We will be using the original data from American Community Survey, which conducts surveys and aggregates the data. FiveThirtyEight cleaned the dataset and released it on their Github repo. We are going to be exploring questions such as; Do students in more popular majors make more money?</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Analysing used car listings</title>
+      <link>https://tomadams333.github.io/tom_portfolio/post/project-2/</link>
+      <pubDate>Fri, 05 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://tomadams333.github.io/tom_portfolio/post/project-2/</guid>
+      <description>Used a dataset of 50,000 points from used car listings on Ebay. The data we are using is a somewhat cleaned dataset provided by Dataquest as an improvement on the original dataset uploaded to Kaggle. This project was an exploration into the dataset, targeting the potential of the Pandas built in functions for analysis, and to test my understanding of the dataframe and series functions. Using Pandas, read in and explored the initial data using built in functions like; info(), head(), describe() and value_counts().</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Analysing popularity trends in Google Play and the App store</title>
+      <link>https://tomadams333.github.io/tom_portfolio/post/project-1/</link>
+      <pubDate>Fri, 05 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://tomadams333.github.io/tom_portfolio/post/project-1/</guid>
+      <description>Collected, explored and cleaned app data from both Google Play and Apple&amp;rsquo;s App store using only the reader module to import the data, and base Python code for analysis. Used Frequency tables and Sorting functions to identify the most common apps by Genre for both stores. This project was designed to help grasp the ability of analysis using Python without the help of common packages.  Link to project repository in GitHub</description>
+    </item>
+    
+    <item>
+      <title>Chapter VI: Esmeralda</title>
+      <link>https://tomadams333.github.io/tom_portfolio/post/chapter-6/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://tomadams333.github.io/tom_portfolio/post/chapter-6/</guid>
+      <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm. His actors, spurred on by him, had not ceased to spout his comedy, and he had not ceased to listen to it. He had made up his mind about the tumult, and was determined to proceed to the end, not giving up the hope of a return of attention on the part of the public.</description>
+    </item>
+    
+    <item>
+      <title>Chapter V: Quasimodo</title>
+      <link>https://tomadams333.github.io/tom_portfolio/post/chapter-5/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      
+      <guid>https://tomadams333.github.io/tom_portfolio/post/chapter-5/</guid>
+      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
+    </item>
+    
+  </channel>
+</rss>
